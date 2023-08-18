@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">control panel solar</string>
+    <string name="title">Control Panel Solar</string>
+    <string name="control_manual">Control Manual</string>
+    <string name="control_auto">Control Automatico</string>
+    <string name="activar">Activar</string>
+    <string name="angle_calc">Angulo calculado:</string>
+    <string name="angle_position">Posision del angulo:</string>
+    <string name="angle_sp">Angulo SP:</string>
+    <string name="sensors">Sensores:</string>
+    <string name="foto_resistor1">Foto Resistencia 1:</string>
+    <string name="foto_resistor2">Foto Resistencia 2:</string>
+</resources>
